@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">OrderFood</string>
+    <string name="delivery">DELIVERY</string>
+    <string name="next">Next</string>
+    <string name="justin">JUSTIN</string>
+    <string name="photo">PHOTO</string>
+    <string name="ring_it">Ring It</string>
+    <string name="we_deliver">We Deliver !</string>
+    <string name="menu">MENU</string>
+    <string name="burger_list">Burger List</string>
+    <string name="chicken_list">Chicken List</string>
+    <string name="ice_cream_list">Ice-Cream List</string>
+    <string name="pizza_list">Pizza List</string>
+    <string name="food_list">Food List</string>
+    <string name="search">Search</string>
+    <string name="third_act_img">TODO</string>
+    <string name="bike">BIKE</string>
+    <string name="pizza">Pizza</string>
+    <string name="description">Description</string>
+    <string name="current_no_available">Current No Available</string>
+</resources>
